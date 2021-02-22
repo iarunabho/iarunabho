@@ -6,7 +6,7 @@
 ## I'm a Student, Developer, and Adventurer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to create an ice-cream suggesstion app 🍦
+- 👯 I’m creating an ice-cream suggesstion app 🍦
 - 🥅 2020 Goals: Contribute towards self-learning projects
 - ⚡ Fun fact: I love to travel and play video games when I'm not Programming
 
